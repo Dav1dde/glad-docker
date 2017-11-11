@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd glad-web
+exec python -m gladweb "$@"

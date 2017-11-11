@@ -1,0 +1,6 @@
+Flask==0.12.2
+eventlet==0.21.0
+gunicorn==19.7.1
+lxml==4.1.1
+git+https://github.com/sublee/flask-autoindex.git@1e086477c6881c9e40d77359f8a33e47da02b454
+glad
